@@ -10,6 +10,6 @@ mongoose.connect("mongodb+srv://chamidu5224:Chamidu%405224@cluster0.jj0ze.mongod
 .then(()=>app.listen(5000))
 .then(()=>console.log ("Database connected")
 )
-//exception handling
+//exception handling js
 .catch((err)=>console.log("database connection error : "+ err));
 

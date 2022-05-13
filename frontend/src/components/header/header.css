@@ -1,0 +1,10 @@
+header {
+    background-color: #FF6A00;
+    padding: 1rem;
+  
+  }
+  header a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
